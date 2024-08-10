@@ -1,0 +1,17 @@
+C:\Users\ishir\source\repos\Todolist\Todolist\bin\Debug\net8.0-windows\Todolist.exe
+C:\Users\ishir\source\repos\Todolist\Todolist\bin\Debug\net8.0-windows\Todolist.deps.json
+C:\Users\ishir\source\repos\Todolist\Todolist\bin\Debug\net8.0-windows\Todolist.runtimeconfig.json
+C:\Users\ishir\source\repos\Todolist\Todolist\bin\Debug\net8.0-windows\Todolist.dll
+C:\Users\ishir\source\repos\Todolist\Todolist\bin\Debug\net8.0-windows\Todolist.pdb
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.Form1.resources
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.Properties.Resources.resources
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.csproj.GenerateResource.cache
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.AssemblyInfoInputs.cache
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.AssemblyInfo.cs
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.csproj.CoreCompileInputs.cache
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.dll
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\refint\Todolist.dll
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.pdb
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\Todolist.genruntimeconfig.cache
+C:\Users\ishir\source\repos\Todolist\Todolist\obj\Debug\net8.0-windows\ref\Todolist.dll
