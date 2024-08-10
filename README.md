@@ -27,3 +27,7 @@ This is a simple Windows Forms application built using C# and the .NET Framework
 ---
 
 This project is ideal for beginners looking to understand basic Windows Forms application development and data binding in C#.
+
+
+
+![Screenshot 2024-08-11 000853](https://github.com/user-attachments/assets/7b70c082-725b-47ed-98e7-e308cf34fb12)
